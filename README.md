@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/Tusharxhub/prepwise/assets/banner.png" alt="Prepwise Banner" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Tusharxhub/prepwise/c86eb22914de19553b7b088abfd6ba0bbe94dd49/public/Screenshot%202025-04-14%20023256.png"/>
 </p>
 
 ---
